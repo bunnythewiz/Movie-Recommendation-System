@@ -1,7 +1,14 @@
 # Movie Recommendation System
+![image](https://github.com/user-attachments/assets/98c6695b-93d2-4045-bcf3-8280a016de13)
+![image](https://github.com/user-attachments/assets/dd8ead13-c0a0-4459-9c6a-f88418cf15c5)
+
+
 
 ## Overview
 This repository implements a movie recommendation system utilizing various algorithms, including content-based and item-based collaborative filtering. The project includes data exploration, preprocessing, feature extraction, and model training.
+
+
+
 
 ## Project Structure
 
